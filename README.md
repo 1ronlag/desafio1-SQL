@@ -4,6 +4,12 @@ paso 1 - Ingreso a postgres
 
 ![ingro sql](https://user-images.githubusercontent.com/95989282/198815422-b032836f-41e4-47c3-8aa0-cfb673e1b703.png)
 
+
+
+
+
+
+
 paso 2 - Crear e ingreasar a Base de Datos 
 ![crear](https://user-images.githubusercontent.com/95989282/198815453-ed081a81-7516-4917-bacf-c15ced1819f2.png)
 
