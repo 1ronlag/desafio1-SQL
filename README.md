@@ -1,7 +1,6 @@
 # Desafio 1 - SQL
 
-Link: 
-https://youtu.be/tuYqro8CQAc
+
 
 
 paso 1 - Ingreso a postgres
